@@ -60,24 +60,67 @@ The Sneakers App meets the following key requirements:
 
 ## 📸 App Images
 
-Below are screenshots showcasing the Sneakers App’s key screens:
+Below are screenshots showcasing the Sneakers App’s key screens in light and dark modes:
 
-![Login Screen](assets/images/login_screen.png)
-*🔑 Login Screen: Secure user authentication with username and password.*
+### Login Screen
+<table>
+  <tr>
+    <th>lightmode</th>
+    <th>darkmode</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5219e6ec-f2d7-408b-93e0-0ac8d51eca6f" width="200" height="400" alt="Login Screen Light Mode"></td>
+    <td><img src="assets/images/login_screen_dark.png" width="200" height="400" alt="Login Screen Dark Mode"></td>
+  </tr>
+</table>
 
-![Shop Screen](assets/images/shop_screen.png)
-*🛍️ Shop Screen: Browse the full catalog of sneakers with images and details.*
+### Shop Screen
+<table>
+  <tr>
+    <th>lightmode</th>
+    <th>darkmode</th>
+  </tr>
+  <tr>
+    <td><img src="assets/images/shop_screen_light.png" width="200" height="400" alt="Shop Screen Light Mode"></td>
+    <td><img src="assets/images/shop_screen_dark.png" width="200" height="400" alt="Shop Screen Dark Mode"></td>
+  </tr>
+</table>
 
-![Cart Screen](assets/images/cart_screen.png)
-*🛒 Cart Screen: Manage cart items with options to adjust quantities or remove items.*
+### Cart Screen
+<table>
+  <tr>
+    <th>lightmode</th>
+    <th>darkmode</th>
+  </tr>
+  <tr>
+    <td><img src="assets/images/cart_screen_light.png" width="200" height="400" alt="Cart Screen Light Mode"></td>
+    <td><img src="assets/images/cart_screen_dark.png" width="200" height="400" alt="Cart Screen Dark Mode"></td>
+  </tr>
+</table>
 
-![Order History Screen](assets/images/order_history_screen.png)
-*📜 Order History Screen: View user-specific order history with expandable details.*
+### Order History Screen
+<table>
+  <tr>
+    <th>lightmode</th>
+    <th>darkmode</th>
+  </tr>
+  <tr>
+    <td><img src="assets/images/order_history_screen_light.png" width="200" height="400" alt="Order History Screen Light Mode"></td>
+    <td><img src="assets/images/order_history_screen_dark.png" width="200" height="400" alt="Order History Screen Dark Mode"></td>
+  </tr>
+</table>
 
-![Settings Screen](assets/images/settings_screen.png)
-*⚙️ Settings Screen: Customize themes and inspect database schema.*
-
-**Note**: The above image paths are placeholders. Replace them with actual screenshots uploaded to the `assets/images/` directory in the repository.
+### Settings Screen
+<table>
+  <tr>
+    <th>lightmode</th>
+    <th>darkmode</th>
+  </tr>
+  <tr>
+    <td><img src="assets/images/settings_screen_light.png" width="200" height="400" alt="Settings Screen Light Mode"></td>
+    <td><img src="assets/images/settings_screen_dark.png" width="200" height="400" alt="Settings Screen Dark Mode"></td>
+  </tr>
+</table>
 
 ## 🤝 Contribute
 
