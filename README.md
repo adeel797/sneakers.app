@@ -1,7 +1,5 @@
 # 👟 Sneakers App
 
-![Sneakers App Banner](assets/images/banner.png)
-
 ## 🌟 Introduction
 
 <div style="text-align: justify">
